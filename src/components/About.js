@@ -2,7 +2,7 @@ import React from 'react'
 import pageBanner from '../images/page-banner.jpg'
 // import image from "../images/user.png"
 // import { useNavigate } from 'react-router-dom';
-import brijesh from '../images/brijesh.webp'
+import brijesh from '../images/Brijesh.JPG'
 import Resume from '../images/brijesh-cv.pdf'
 import TypingEffect from './TypingEffect';
 
